@@ -47,7 +47,6 @@ Public Class selectveh
     End Sub
 
     Private Sub selectveh_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        configModule.InitMySQL("mysql-mariadb-20-104.zap-hosting.com", " zap349503-3", "FNSS08s8MYNqig2k", "zap349503-3")
         LadeDeinFahrzeug()
     End Sub
 End Class

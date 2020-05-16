@@ -78,7 +78,6 @@
   <ItemGroup>
     <Compile Include="Module\configModule.vb" />
     <Compile Include="Module\fmsModule.vb" />
-    <Compile Include="Module\PluginFMSInfo.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
