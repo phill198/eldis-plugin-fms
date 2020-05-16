@@ -56,54 +56,6 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("mysql-mariadb-5-101.zap-hosting.com")>  _
-        Public Property mysqlserver() As String
-            Get
-                Return CType(Me("mysqlserver"),String)
-            End Get
-            Set
-                Me("mysqlserver") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("zap349503-1")>  _
-        Public Property mysqluser() As String
-            Get
-                Return CType(Me("mysqluser"),String)
-            End Get
-            Set
-                Me("mysqluser") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("8jJxJJ5dUXncgVKH")>  _
-        Public Property mysqlpassword() As String
-            Get
-                Return CType(Me("mysqlpassword"),String)
-            End Get
-            Set
-                Me("mysqlpassword") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("zap349503-1")>  _
-        Public Property mysqldatabase() As String
-            Get
-                Return CType(Me("mysqldatabase"),String)
-            End Get
-            Set
-                Me("mysqldatabase") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.DefaultSettingValueAttribute("")>  _
         Public Property currentVEH() As String
             Get

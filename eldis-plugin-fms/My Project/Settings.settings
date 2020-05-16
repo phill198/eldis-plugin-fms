@@ -2,18 +2,6 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
   <Profiles />
   <Settings>
-    <Setting Name="mysqlserver" Type="System.String" Scope="User">
-      <Value Profile="(Default)">mysql-mariadb-5-101.zap-hosting.com</Value>
-    </Setting>
-    <Setting Name="mysqluser" Type="System.String" Scope="User">
-      <Value Profile="(Default)">zap349503-1</Value>
-    </Setting>
-    <Setting Name="mysqlpassword" Type="System.String" Scope="User">
-      <Value Profile="(Default)">8jJxJJ5dUXncgVKH</Value>
-    </Setting>
-    <Setting Name="mysqldatabase" Type="System.String" Scope="User">
-      <Value Profile="(Default)">zap349503-1</Value>
-    </Setting>
     <Setting Name="currentVEH" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
