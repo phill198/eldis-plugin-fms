@@ -1,0 +1,15 @@
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\bin\Debug\eldis-plugin-fms.exe.config
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\bin\Debug\eldis-plugin-fms.exe
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\bin\Debug\eldis-plugin-fms.pdb
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\bin\Debug\eldis-plugin-fms.xml
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\bin\Debug\MySql.Data.dll
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\ELDIS.Client.FMS.vbprojAssemblyReference.cache
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis_plugin_fms.Resources.resources
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\ELDIS.Client.FMS.vbproj.GenerateResource.cache
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\ELDIS.Client.FMS.vbproj.CoreCompileInputs.cache
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\ELDIS.Client.FMS.vbproj.CopyComplete
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis-plugin-fms.exe
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis-plugin-fms.xml
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis-plugin-fms.pdb
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis_plugin_fms.fmsgeber.resources
+C:\Users\Oliver Kratochwill\source\repos\eldis-plugin-fms\eldis-plugin-fms\obj\Debug\eldis_plugin_fms.selectveh.resources
